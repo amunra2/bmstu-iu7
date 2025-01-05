@@ -63,11 +63,12 @@
 * [Защита информации](https://github.com/amunra2/is-bmstu-iu7) 
 * [Моделирование](https://github.com/amunra2/modeling-bmstu-iu7)
 * [Основы разработки Web - приложений](https://github.com/amunra2/web-bmstu-iu7)
+* [Курсовая работа по Операционным системам](https://github.com/amunra2/os-cp-bmstu-iu7)
 
 
 #### Семестр 8
 
-<!-- * [Программирование (С)](https://github.com/amunra2/c-bmstu-iu7) -->
-
+* [Цифровая обработка сигналов](https://github.com/amunra2/dsp-bmstu-iu7) 
+* [Экономика программной инженерии](https://github.com/amunra2/bmstu-iu7-epe)
 
 _@amunra2 (2025г.)_

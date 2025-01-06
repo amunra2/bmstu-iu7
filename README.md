@@ -71,5 +71,6 @@
 * [Цифровая обработка сигналов](https://github.com/amunra2/dsp-bmstu-iu7) 
 * [Экономика программной инженерии](https://github.com/amunra2/bmstu-iu7-epe) 
 * [Командная разработка](https://github.com/amunra2/team-dev-bmstu-iu7)
+* [Автоматизация развертывания и эксплуатации программного обеспечения - DevOps](https://github.com/amunra2/devops-bmstu-iu7)
 
 _@amunra2 (2025г.)_
